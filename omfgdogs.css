@@ -1,0 +1,11 @@
+* {background-image:url(assets/omfgdogs.gif);}
+
+#source { position:absolute;
+          bottom:10%;
+          top:90%;
+          left:90%;
+}
+
+a:link{color:black;}
+a:visited{color:black;}
+a:hover{color:white;}
